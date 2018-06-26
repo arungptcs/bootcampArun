@@ -1,0 +1,16 @@
+Swiggy.com
+1.Vendor Registration portal:-
+Vendor who want sell his food online with help of swiggy then vendor will easly register himself to offer his services to the customer.
+
+2.short video of each dish-:
+
+food Image  doesn't attract customer too much beacuse customer can't know how its taste and how cleanly it was cook so, making a short video from cooking,
+to presentation and feedback from customer.
+
+3.easy food order facility 
+-user need not to register himself before making any order.
+
+4. swiggy verified restaurents andcustomer feedback(text or video)
+ 1.Inorder to improve quality and services,swiggy has to define a standard and verify each restaurent on the basis of this parameter.
+ 2.feedback from customer is important to make service better.
+ 
