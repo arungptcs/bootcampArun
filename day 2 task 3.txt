@@ -1,0 +1,25 @@
+Project name- Pam Application
+Minutes prepared by- Arun
+
+Attendees present-:
+The Meeting between two people
+
+Objective
+Data transformation process for Pam apllication
+
+Agenda and Notes
+-New Pam Application
+-Rewriting Apllication
+-Review Code
+-Code optimization
+-unit testing on each module
+-Optimize code
+-Campaign Summary and side side project
+-next meenting on monday with dummy structure of campaign summary API with 10 questions on it.
+-side project
+-Kylie wil give resource and money for the project
+-draft of API calls
+-make it uniform and generic
+
+issues:-
+-Error in last becase of parameter  
