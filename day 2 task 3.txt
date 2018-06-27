@@ -14,7 +14,7 @@ Agenda and Notes
 -Code optimization
 -unit testing on each module
 -Optimize code
--Campaign Summary and side side project
+-Campaign Summary and side  project
 -next meenting on monday with dummy structure of campaign summary API with 10 questions on it.
 -side project
 -Kylie wil give resource and money for the project
